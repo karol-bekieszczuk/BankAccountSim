@@ -1,0 +1,1 @@
+INT;sample_owner1;15.0
